@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Smart Library",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++17", "-Wall", "-Wextra", "-g",
+                "-Iinclude",
+                "src/main.cpp", "src/Library.cpp", "src/AVLTree.cpp",
+                "src/BST.cpp", "src/HashTable.cpp", "src/Utils.cpp",
+                "-o", "library.exe"
+            ],
+            "group": { "kind": "build", "isDefault": true },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}

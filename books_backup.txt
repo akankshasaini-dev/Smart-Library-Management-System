@@ -1,0 +1,8 @@
+101|Data Structures in C++|Mark Allen Weiss|0|-|-
+102|Introduction to Algorithms|Thomas Cormen|0|-|-
+103|Database System Concepts|Silberschatz|0|-|-
+104|Operating System Concepts|Galvin|0|-|-
+105|Clean Code|Robert Martin|0|-|-
+106|Computer Networks|Tanenbaum|0|-|-
+107|Java: The Complete Reference|Herbert Schildt|1|S2025A1|Akanksha
+200|Data Structures Using C++ |D.S. Malik|0|-|-

@@ -1,0 +1,500 @@
+1001|Introduction to Data Structures: and Applications|Mark Allen Weiss|0|-|-
+1002|Introduction to Algorithms: Theory and Practice|Thomas H. Cormen|0|-|-
+1003|Introduction to Database Systems: with Examples|Abraham Silberschatz|0|-|-
+1004|Introduction to Operating Systems: A Practical Approach|Abraham Silberschatz|0|-|-
+1005|Introduction to Computer Networks: Concepts and Techniques|Andrew S. Tanenbaum|0|-|-
+1006|Introduction to Computer Architecture: for Beginners|William Stallings|0|-|-
+1007|Introduction to Object-Oriented Programming: in Practice|Bjarne Stroustrup|1|DEMO1007|Demo Student 1007
+1008|Introduction to C++ Programming: Methods and Models|Bjarne Stroustrup|0|-|-
+1009|Introduction to Java Programming: A Modern Approach|Herbert Schildt|0|-|-
+1010|Introduction to Python Programming: Projects and Case Studies|Eric Matthes|0|-|-
+1011|Introduction to Web Development: and Applications|Jon Duckett|0|-|-
+1012|Introduction to Software Engineering: Theory and Practice|Ian Sommerville|0|-|-
+1013|Introduction to Artificial Intelligence: with Examples|Stuart Russell|0|-|-
+1014|Introduction to Machine Learning: A Practical Approach|Aurélien Géron|0|-|-
+1015|Introduction to Deep Learning: Concepts and Techniques|Ian Goodfellow|0|-|-
+1016|Introduction to Cybersecurity: for Beginners|William Stallings|0|-|-
+1017|Introduction to Computer Graphics: in Practice|Donald Hearn|0|-|-
+1018|Introduction to Digital Logic: Methods and Models|M. Morris Mano|0|-|-
+1019|Introduction to Discrete Mathematics: A Modern Approach|Kenneth H. Rosen|1|DEMO1019|Demo Student 1019
+1020|Introduction to Theory of Computation: Projects and Case Studies|Michael Sipser|0|-|-
+1021|Introduction to Cloud Computing: and Applications|Rajkumar Buyya|0|-|-
+1022|Introduction to Data Science: Theory and Practice|Joel Grus|0|-|-
+1023|Introduction to Information Systems: with Examples|Kenneth C. Laudon|0|-|-
+1024|Introduction to Human-Computer Interaction: A Practical Approach|Alan Dix|0|-|-
+1025|Introduction to Computer Vision: Concepts and Techniques|Richard Szeliski|0|-|-
+1026|Foundations of Data Structures: Theory and Practice|Mark Allen Weiss|0|-|-
+1027|Foundations of Algorithms: with Examples|Thomas H. Cormen|0|-|-
+1028|Foundations of Database Systems: A Practical Approach|Abraham Silberschatz|0|-|-
+1029|Foundations of Operating Systems: Concepts and Techniques|Abraham Silberschatz|0|-|-
+1030|Foundations of Computer Networks: for Beginners|Andrew S. Tanenbaum|0|-|-
+1031|Foundations of Computer Architecture: in Practice|William Stallings|1|DEMO1031|Demo Student 1031
+1032|Foundations of Object-Oriented Programming: Methods and Models|Bjarne Stroustrup|0|-|-
+1033|Foundations of C++ Programming: A Modern Approach|Bjarne Stroustrup|0|-|-
+1034|Foundations of Java Programming: Projects and Case Studies|Herbert Schildt|0|-|-
+1035|Foundations of Python Programming: and Applications|Eric Matthes|0|-|-
+1036|Foundations of Web Development: Theory and Practice|Jon Duckett|0|-|-
+1037|Foundations of Software Engineering: with Examples|Ian Sommerville|0|-|-
+1038|Foundations of Artificial Intelligence: A Practical Approach|Stuart Russell|0|-|-
+1039|Foundations of Machine Learning: Concepts and Techniques|Aurélien Géron|0|-|-
+1040|Foundations of Deep Learning: for Beginners|Ian Goodfellow|0|-|-
+1041|Foundations of Cybersecurity: in Practice|William Stallings|0|-|-
+1042|Foundations of Computer Graphics: Methods and Models|Donald Hearn|0|-|-
+1043|Foundations of Digital Logic: A Modern Approach|M. Morris Mano|1|DEMO1043|Demo Student 1043
+1044|Foundations of Discrete Mathematics: Projects and Case Studies|Kenneth H. Rosen|0|-|-
+1045|Foundations of Theory of Computation: and Applications|Michael Sipser|0|-|-
+1046|Foundations of Cloud Computing: Theory and Practice|Rajkumar Buyya|0|-|-
+1047|Foundations of Data Science: with Examples|Joel Grus|0|-|-
+1048|Foundations of Information Systems: A Practical Approach|Kenneth C. Laudon|0|-|-
+1049|Foundations of Human-Computer Interaction: Concepts and Techniques|Alan Dix|0|-|-
+1050|Foundations of Computer Vision: for Beginners|Richard Szeliski|0|-|-
+1051|Principles of Data Structures: with Examples|Mark Allen Weiss|0|-|-
+1052|Principles of Algorithms: A Practical Approach|Thomas H. Cormen|0|-|-
+1053|Principles of Database Systems: Concepts and Techniques|Abraham Silberschatz|0|-|-
+1054|Principles of Operating Systems: for Beginners|Abraham Silberschatz|0|-|-
+1055|Principles of Computer Networks: in Practice|Andrew S. Tanenbaum|1|DEMO1055|Demo Student 1055
+1056|Principles of Computer Architecture: Methods and Models|William Stallings|0|-|-
+1057|Principles of Object-Oriented Programming: A Modern Approach|Bjarne Stroustrup|0|-|-
+1058|Principles of C++ Programming: Projects and Case Studies|Bjarne Stroustrup|0|-|-
+1059|Principles of Java Programming: and Applications|Herbert Schildt|0|-|-
+1060|Principles of Python Programming: Theory and Practice|Eric Matthes|0|-|-
+1061|Principles of Web Development: with Examples|Jon Duckett|0|-|-
+1062|Principles of Software Engineering: A Practical Approach|Ian Sommerville|0|-|-
+1063|Principles of Artificial Intelligence: Concepts and Techniques|Stuart Russell|0|-|-
+1064|Principles of Machine Learning: for Beginners|Aurélien Géron|0|-|-
+1065|Principles of Deep Learning: in Practice|Ian Goodfellow|0|-|-
+1066|Principles of Cybersecurity: Methods and Models|William Stallings|0|-|-
+1067|Principles of Computer Graphics: A Modern Approach|Donald Hearn|1|DEMO1067|Demo Student 1067
+1068|Principles of Digital Logic: Projects and Case Studies|M. Morris Mano|0|-|-
+1069|Principles of Discrete Mathematics: and Applications|Kenneth H. Rosen|0|-|-
+1070|Principles of Theory of Computation: Theory and Practice|Michael Sipser|0|-|-
+1071|Principles of Cloud Computing: with Examples|Rajkumar Buyya|0|-|-
+1072|Principles of Data Science: A Practical Approach|Joel Grus|0|-|-
+1073|Principles of Information Systems: Concepts and Techniques|Kenneth C. Laudon|0|-|-
+1074|Principles of Human-Computer Interaction: for Beginners|Alan Dix|0|-|-
+1075|Principles of Computer Vision: in Practice|Richard Szeliski|0|-|-
+1076|Modern Data Structures: A Practical Approach|Mark Allen Weiss|0|-|-
+1077|Modern Algorithms: Concepts and Techniques|Thomas H. Cormen|0|-|-
+1078|Modern Database Systems: for Beginners|Abraham Silberschatz|0|-|-
+1079|Modern Operating Systems: in Practice|Abraham Silberschatz|1|DEMO1079|Demo Student 1079
+1080|Modern Computer Networks: Methods and Models|Andrew S. Tanenbaum|0|-|-
+1081|Modern Computer Architecture: A Modern Approach|William Stallings|0|-|-
+1082|Modern Object-Oriented Programming: Projects and Case Studies|Bjarne Stroustrup|0|-|-
+1083|Modern C++ Programming: and Applications|Bjarne Stroustrup|0|-|-
+1084|Modern Java Programming: Theory and Practice|Herbert Schildt|0|-|-
+1085|Modern Python Programming: with Examples|Eric Matthes|0|-|-
+1086|Modern Web Development: A Practical Approach|Jon Duckett|0|-|-
+1087|Modern Software Engineering: Concepts and Techniques|Ian Sommerville|0|-|-
+1088|Modern Artificial Intelligence: for Beginners|Stuart Russell|0|-|-
+1089|Modern Machine Learning: in Practice|Aurélien Géron|0|-|-
+1090|Modern Deep Learning: Methods and Models|Ian Goodfellow|0|-|-
+1091|Modern Cybersecurity: A Modern Approach|William Stallings|1|DEMO1091|Demo Student 1091
+1092|Modern Computer Graphics: Projects and Case Studies|Donald Hearn|0|-|-
+1093|Modern Digital Logic: and Applications|M. Morris Mano|0|-|-
+1094|Modern Discrete Mathematics: Theory and Practice|Kenneth H. Rosen|0|-|-
+1095|Modern Theory of Computation: with Examples|Michael Sipser|0|-|-
+1096|Modern Cloud Computing: A Practical Approach|Rajkumar Buyya|0|-|-
+1097|Modern Data Science: Concepts and Techniques|Joel Grus|0|-|-
+1098|Modern Information Systems: for Beginners|Kenneth C. Laudon|0|-|-
+1099|Modern Human-Computer Interaction: in Practice|Alan Dix|0|-|-
+1100|Modern Computer Vision: Methods and Models|Richard Szeliski|0|-|-
+1101|Practical Guide to Data Structures: Concepts and Techniques|Mark Allen Weiss|0|-|-
+1102|Practical Guide to Algorithms: for Beginners|Thomas H. Cormen|0|-|-
+1103|Practical Guide to Database Systems: in Practice|Abraham Silberschatz|1|DEMO1103|Demo Student 1103
+1104|Practical Guide to Operating Systems: Methods and Models|Abraham Silberschatz|0|-|-
+1105|Practical Guide to Computer Networks: A Modern Approach|Andrew S. Tanenbaum|0|-|-
+1106|Practical Guide to Computer Architecture: Projects and Case Studies|William Stallings|0|-|-
+1107|Practical Guide to Object-Oriented Programming: and Applications|Bjarne Stroustrup|0|-|-
+1108|Practical Guide to C++ Programming: Theory and Practice|Bjarne Stroustrup|0|-|-
+1109|Practical Guide to Java Programming: with Examples|Herbert Schildt|0|-|-
+1110|Practical Guide to Python Programming: A Practical Approach|Eric Matthes|0|-|-
+1111|Practical Guide to Web Development: Concepts and Techniques|Jon Duckett|0|-|-
+1112|Practical Guide to Software Engineering: for Beginners|Ian Sommerville|0|-|-
+1113|Practical Guide to Artificial Intelligence: in Practice|Stuart Russell|0|-|-
+1114|Practical Guide to Machine Learning: Methods and Models|Aurélien Géron|0|-|-
+1115|Practical Guide to Deep Learning: A Modern Approach|Ian Goodfellow|1|DEMO1115|Demo Student 1115
+1116|Practical Guide to Cybersecurity: Projects and Case Studies|William Stallings|0|-|-
+1117|Practical Guide to Computer Graphics: and Applications|Donald Hearn|0|-|-
+1118|Practical Guide to Digital Logic: Theory and Practice|M. Morris Mano|0|-|-
+1119|Practical Guide to Discrete Mathematics: with Examples|Kenneth H. Rosen|0|-|-
+1120|Practical Guide to Theory of Computation: A Practical Approach|Michael Sipser|0|-|-
+1121|Practical Guide to Cloud Computing: Concepts and Techniques|Rajkumar Buyya|0|-|-
+1122|Practical Guide to Data Science: for Beginners|Joel Grus|0|-|-
+1123|Practical Guide to Information Systems: in Practice|Kenneth C. Laudon|0|-|-
+1124|Practical Guide to Human-Computer Interaction: Methods and Models|Alan Dix|0|-|-
+1125|Practical Guide to Computer Vision: A Modern Approach|Richard Szeliski|0|-|-
+1126|Advanced Topics in Data Structures: for Beginners|Mark Allen Weiss|0|-|-
+1127|Advanced Topics in Algorithms: in Practice|Thomas H. Cormen|1|DEMO1127|Demo Student 1127
+1128|Advanced Topics in Database Systems: Methods and Models|Abraham Silberschatz|0|-|-
+1129|Advanced Topics in Operating Systems: A Modern Approach|Abraham Silberschatz|0|-|-
+1130|Advanced Topics in Computer Networks: Projects and Case Studies|Andrew S. Tanenbaum|0|-|-
+1131|Advanced Topics in Computer Architecture: and Applications|William Stallings|0|-|-
+1132|Advanced Topics in Object-Oriented Programming: Theory and Practice|Bjarne Stroustrup|0|-|-
+1133|Advanced Topics in C++ Programming: with Examples|Bjarne Stroustrup|0|-|-
+1134|Advanced Topics in Java Programming: A Practical Approach|Herbert Schildt|0|-|-
+1135|Advanced Topics in Python Programming: Concepts and Techniques|Eric Matthes|0|-|-
+1136|Advanced Topics in Web Development: for Beginners|Jon Duckett|0|-|-
+1137|Advanced Topics in Software Engineering: in Practice|Ian Sommerville|0|-|-
+1138|Advanced Topics in Artificial Intelligence: Methods and Models|Stuart Russell|0|-|-
+1139|Advanced Topics in Machine Learning: A Modern Approach|Aurélien Géron|1|DEMO1139|Demo Student 1139
+1140|Advanced Topics in Deep Learning: Projects and Case Studies|Ian Goodfellow|0|-|-
+1141|Advanced Topics in Cybersecurity: and Applications|William Stallings|0|-|-
+1142|Advanced Topics in Computer Graphics: Theory and Practice|Donald Hearn|0|-|-
+1143|Advanced Topics in Digital Logic: with Examples|M. Morris Mano|0|-|-
+1144|Advanced Topics in Discrete Mathematics: A Practical Approach|Kenneth H. Rosen|0|-|-
+1145|Advanced Topics in Theory of Computation: Concepts and Techniques|Michael Sipser|0|-|-
+1146|Advanced Topics in Cloud Computing: for Beginners|Rajkumar Buyya|0|-|-
+1147|Advanced Topics in Data Science: in Practice|Joel Grus|0|-|-
+1148|Advanced Topics in Information Systems: Methods and Models|Kenneth C. Laudon|0|-|-
+1149|Advanced Topics in Human-Computer Interaction: A Modern Approach|Alan Dix|0|-|-
+1150|Advanced Topics in Computer Vision: Projects and Case Studies|Richard Szeliski|0|-|-
+1151|Essentials of Data Structures: in Practice|Mark Allen Weiss|1|DEMO1151|Demo Student 1151
+1152|Essentials of Algorithms: Methods and Models|Thomas H. Cormen|0|-|-
+1153|Essentials of Database Systems: A Modern Approach|Abraham Silberschatz|0|-|-
+1154|Essentials of Operating Systems: Projects and Case Studies|Abraham Silberschatz|0|-|-
+1155|Essentials of Computer Networks: and Applications|Andrew S. Tanenbaum|0|-|-
+1156|Essentials of Computer Architecture: Theory and Practice|William Stallings|0|-|-
+1157|Essentials of Object-Oriented Programming: with Examples|Bjarne Stroustrup|0|-|-
+1158|Essentials of C++ Programming: A Practical Approach|Bjarne Stroustrup|0|-|-
+1159|Essentials of Java Programming: Concepts and Techniques|Herbert Schildt|0|-|-
+1160|Essentials of Python Programming: for Beginners|Eric Matthes|0|-|-
+1161|Essentials of Web Development: in Practice|Jon Duckett|0|-|-
+1162|Essentials of Software Engineering: Methods and Models|Ian Sommerville|0|-|-
+1163|Essentials of Artificial Intelligence: A Modern Approach|Stuart Russell|1|DEMO1163|Demo Student 1163
+1164|Essentials of Machine Learning: Projects and Case Studies|Aurélien Géron|0|-|-
+1165|Essentials of Deep Learning: and Applications|Ian Goodfellow|0|-|-
+1166|Essentials of Cybersecurity: Theory and Practice|William Stallings|0|-|-
+1167|Essentials of Computer Graphics: with Examples|Donald Hearn|0|-|-
+1168|Essentials of Digital Logic: A Practical Approach|M. Morris Mano|0|-|-
+1169|Essentials of Discrete Mathematics: Concepts and Techniques|Kenneth H. Rosen|0|-|-
+1170|Essentials of Theory of Computation: for Beginners|Michael Sipser|0|-|-
+1171|Essentials of Cloud Computing: in Practice|Rajkumar Buyya|0|-|-
+1172|Essentials of Data Science: Methods and Models|Joel Grus|0|-|-
+1173|Essentials of Information Systems: A Modern Approach|Kenneth C. Laudon|0|-|-
+1174|Essentials of Human-Computer Interaction: Projects and Case Studies|Alan Dix|0|-|-
+1175|Essentials of Computer Vision: and Applications|Richard Szeliski|1|DEMO1175|Demo Student 1175
+1176|Concepts in Data Structures: Methods and Models|Mark Allen Weiss|0|-|-
+1177|Concepts in Algorithms: A Modern Approach|Thomas H. Cormen|0|-|-
+1178|Concepts in Database Systems: Projects and Case Studies|Abraham Silberschatz|0|-|-
+1179|Concepts in Operating Systems: and Applications|Abraham Silberschatz|0|-|-
+1180|Concepts in Computer Networks: Theory and Practice|Andrew S. Tanenbaum|0|-|-
+1181|Concepts in Computer Architecture: with Examples|William Stallings|0|-|-
+1182|Concepts in Object-Oriented Programming: A Practical Approach|Bjarne Stroustrup|0|-|-
+1183|Concepts in C++ Programming: Concepts and Techniques|Bjarne Stroustrup|0|-|-
+1184|Concepts in Java Programming: for Beginners|Herbert Schildt|0|-|-
+1185|Concepts in Python Programming: in Practice|Eric Matthes|0|-|-
+1186|Concepts in Web Development: Methods and Models|Jon Duckett|0|-|-
+1187|Concepts in Software Engineering: A Modern Approach|Ian Sommerville|0|-|-
+1188|Concepts in Artificial Intelligence: Projects and Case Studies|Stuart Russell|0|-|-
+1189|Concepts in Machine Learning: and Applications|Aurélien Géron|0|-|-
+1190|Concepts in Deep Learning: Theory and Practice|Ian Goodfellow|0|-|-
+1191|Concepts in Cybersecurity: with Examples|William Stallings|0|-|-
+1192|Concepts in Computer Graphics: A Practical Approach|Donald Hearn|0|-|-
+1193|Concepts in Digital Logic: Concepts and Techniques|M. Morris Mano|0|-|-
+1194|Concepts in Discrete Mathematics: for Beginners|Kenneth H. Rosen|0|-|-
+1195|Concepts in Theory of Computation: in Practice|Michael Sipser|0|-|-
+1196|Concepts in Cloud Computing: Methods and Models|Rajkumar Buyya|0|-|-
+1197|Concepts in Data Science: A Modern Approach|Joel Grus|0|-|-
+1198|Concepts in Information Systems: Projects and Case Studies|Kenneth C. Laudon|0|-|-
+1199|Concepts in Human-Computer Interaction: and Applications|Alan Dix|0|-|-
+1200|Concepts in Computer Vision: Theory and Practice|Richard Szeliski|0|-|-
+1201|Applied Data Structures: A Modern Approach|Mark Allen Weiss|0|-|-
+1202|Applied Algorithms: Projects and Case Studies|Thomas H. Cormen|0|-|-
+1203|Applied Database Systems: and Applications|Abraham Silberschatz|0|-|-
+1204|Applied Operating Systems: Theory and Practice|Abraham Silberschatz|0|-|-
+1205|Applied Computer Networks: with Examples|Andrew S. Tanenbaum|0|-|-
+1206|Applied Computer Architecture: A Practical Approach|William Stallings|0|-|-
+1207|Applied Object-Oriented Programming: Concepts and Techniques|Bjarne Stroustrup|0|-|-
+1208|Applied C++ Programming: for Beginners|Bjarne Stroustrup|0|-|-
+1209|Applied Java Programming: in Practice|Herbert Schildt|0|-|-
+1210|Applied Python Programming: Methods and Models|Eric Matthes|0|-|-
+1211|Applied Web Development: A Modern Approach|Jon Duckett|0|-|-
+1212|Applied Software Engineering: Projects and Case Studies|Ian Sommerville|0|-|-
+1213|Applied Artificial Intelligence: and Applications|Stuart Russell|0|-|-
+1214|Applied Machine Learning: Theory and Practice|Aurélien Géron|0|-|-
+1215|Applied Deep Learning: with Examples|Ian Goodfellow|0|-|-
+1216|Applied Cybersecurity: A Practical Approach|William Stallings|0|-|-
+1217|Applied Computer Graphics: Concepts and Techniques|Donald Hearn|0|-|-
+1218|Applied Digital Logic: for Beginners|M. Morris Mano|0|-|-
+1219|Applied Discrete Mathematics: in Practice|Kenneth H. Rosen|0|-|-
+1220|Applied Theory of Computation: Methods and Models|Michael Sipser|0|-|-
+1221|Applied Cloud Computing: A Modern Approach|Rajkumar Buyya|0|-|-
+1222|Applied Data Science: Projects and Case Studies|Joel Grus|0|-|-
+1223|Applied Information Systems: and Applications|Kenneth C. Laudon|0|-|-
+1224|Applied Human-Computer Interaction: Theory and Practice|Alan Dix|0|-|-
+1225|Applied Computer Vision: with Examples|Richard Szeliski|0|-|-
+1226|Handbook of Data Structures: Projects and Case Studies|Mark Allen Weiss|0|-|-
+1227|Handbook of Algorithms: and Applications|Thomas H. Cormen|0|-|-
+1228|Handbook of Database Systems: Theory and Practice|Abraham Silberschatz|0|-|-
+1229|Handbook of Operating Systems: with Examples|Abraham Silberschatz|0|-|-
+1230|Handbook of Computer Networks: A Practical Approach|Andrew S. Tanenbaum|0|-|-
+1231|Handbook of Computer Architecture: Concepts and Techniques|William Stallings|0|-|-
+1232|Handbook of Object-Oriented Programming: for Beginners|Bjarne Stroustrup|0|-|-
+1233|Handbook of C++ Programming: in Practice|Bjarne Stroustrup|0|-|-
+1234|Handbook of Java Programming: Methods and Models|Herbert Schildt|0|-|-
+1235|Handbook of Python Programming: A Modern Approach|Eric Matthes|0|-|-
+1236|Handbook of Web Development: Projects and Case Studies|Jon Duckett|0|-|-
+1237|Handbook of Software Engineering: and Applications|Ian Sommerville|0|-|-
+1238|Handbook of Artificial Intelligence: Theory and Practice|Stuart Russell|0|-|-
+1239|Handbook of Machine Learning: with Examples|Aurélien Géron|0|-|-
+1240|Handbook of Deep Learning: A Practical Approach|Ian Goodfellow|0|-|-
+1241|Handbook of Cybersecurity: Concepts and Techniques|William Stallings|0|-|-
+1242|Handbook of Computer Graphics: for Beginners|Donald Hearn|0|-|-
+1243|Handbook of Digital Logic: in Practice|M. Morris Mano|0|-|-
+1244|Handbook of Discrete Mathematics: Methods and Models|Kenneth H. Rosen|0|-|-
+1245|Handbook of Theory of Computation: A Modern Approach|Michael Sipser|0|-|-
+1246|Handbook of Cloud Computing: Projects and Case Studies|Rajkumar Buyya|0|-|-
+1247|Handbook of Data Science: and Applications|Joel Grus|0|-|-
+1248|Handbook of Information Systems: Theory and Practice|Kenneth C. Laudon|0|-|-
+1249|Handbook of Human-Computer Interaction: with Examples|Alan Dix|0|-|-
+1250|Handbook of Computer Vision: A Practical Approach|Richard Szeliski|0|-|-
+1251|A Student's Guide to Data Structures: and Applications|Mark Allen Weiss|0|-|-
+1252|A Student's Guide to Algorithms: Theory and Practice|Thomas H. Cormen|0|-|-
+1253|A Student's Guide to Database Systems: with Examples|Abraham Silberschatz|0|-|-
+1254|A Student's Guide to Operating Systems: A Practical Approach|Abraham Silberschatz|0|-|-
+1255|A Student's Guide to Computer Networks: Concepts and Techniques|Andrew S. Tanenbaum|0|-|-
+1256|A Student's Guide to Computer Architecture: for Beginners|William Stallings|0|-|-
+1257|A Student's Guide to Object-Oriented Programming: in Practice|Bjarne Stroustrup|0|-|-
+1258|A Student's Guide to C++ Programming: Methods and Models|Bjarne Stroustrup|0|-|-
+1259|A Student's Guide to Java Programming: A Modern Approach|Herbert Schildt|0|-|-
+1260|A Student's Guide to Python Programming: Projects and Case Studies|Eric Matthes|0|-|-
+1261|A Student's Guide to Web Development: and Applications|Jon Duckett|0|-|-
+1262|A Student's Guide to Software Engineering: Theory and Practice|Ian Sommerville|0|-|-
+1263|A Student's Guide to Artificial Intelligence: with Examples|Stuart Russell|0|-|-
+1264|A Student's Guide to Machine Learning: A Practical Approach|Aurélien Géron|0|-|-
+1265|A Student's Guide to Deep Learning: Concepts and Techniques|Ian Goodfellow|0|-|-
+1266|A Student's Guide to Cybersecurity: for Beginners|William Stallings|0|-|-
+1267|A Student's Guide to Computer Graphics: in Practice|Donald Hearn|0|-|-
+1268|A Student's Guide to Digital Logic: Methods and Models|M. Morris Mano|0|-|-
+1269|A Student's Guide to Discrete Mathematics: A Modern Approach|Kenneth H. Rosen|0|-|-
+1270|A Student's Guide to Theory of Computation: Projects and Case Studies|Michael Sipser|0|-|-
+1271|A Student's Guide to Cloud Computing: and Applications|Rajkumar Buyya|0|-|-
+1272|A Student's Guide to Data Science: Theory and Practice|Joel Grus|0|-|-
+1273|A Student's Guide to Information Systems: with Examples|Kenneth C. Laudon|0|-|-
+1274|A Student's Guide to Human-Computer Interaction: A Practical Approach|Alan Dix|0|-|-
+1275|A Student's Guide to Computer Vision: Concepts and Techniques|Richard Szeliski|0|-|-
+1276|Fundamentals of Data Structures: Theory and Practice|Mark Allen Weiss|0|-|-
+1277|Fundamentals of Algorithms: with Examples|Thomas H. Cormen|0|-|-
+1278|Fundamentals of Database Systems: A Practical Approach|Abraham Silberschatz|0|-|-
+1279|Fundamentals of Operating Systems: Concepts and Techniques|Abraham Silberschatz|0|-|-
+1280|Fundamentals of Computer Networks: for Beginners|Andrew S. Tanenbaum|0|-|-
+1281|Fundamentals of Computer Architecture: in Practice|William Stallings|0|-|-
+1282|Fundamentals of Object-Oriented Programming: Methods and Models|Bjarne Stroustrup|0|-|-
+1283|Fundamentals of C++ Programming: A Modern Approach|Bjarne Stroustrup|0|-|-
+1284|Fundamentals of Java Programming: Projects and Case Studies|Herbert Schildt|0|-|-
+1285|Fundamentals of Python Programming: and Applications|Eric Matthes|0|-|-
+1286|Fundamentals of Web Development: Theory and Practice|Jon Duckett|0|-|-
+1287|Fundamentals of Software Engineering: with Examples|Ian Sommerville|0|-|-
+1288|Fundamentals of Artificial Intelligence: A Practical Approach|Stuart Russell|0|-|-
+1289|Fundamentals of Machine Learning: Concepts and Techniques|Aurélien Géron|0|-|-
+1290|Fundamentals of Deep Learning: for Beginners|Ian Goodfellow|0|-|-
+1291|Fundamentals of Cybersecurity: in Practice|William Stallings|0|-|-
+1292|Fundamentals of Computer Graphics: Methods and Models|Donald Hearn|0|-|-
+1293|Fundamentals of Digital Logic: A Modern Approach|M. Morris Mano|0|-|-
+1294|Fundamentals of Discrete Mathematics: Projects and Case Studies|Kenneth H. Rosen|0|-|-
+1295|Fundamentals of Theory of Computation: and Applications|Michael Sipser|0|-|-
+1296|Fundamentals of Cloud Computing: Theory and Practice|Rajkumar Buyya|0|-|-
+1297|Fundamentals of Data Science: with Examples|Joel Grus|0|-|-
+1298|Fundamentals of Information Systems: A Practical Approach|Kenneth C. Laudon|0|-|-
+1299|Fundamentals of Human-Computer Interaction: Concepts and Techniques|Alan Dix|0|-|-
+1300|Fundamentals of Computer Vision: for Beginners|Richard Szeliski|0|-|-
+1301|Designing with Data Structures: with Examples|Mark Allen Weiss|0|-|-
+1302|Designing with Algorithms: A Practical Approach|Thomas H. Cormen|0|-|-
+1303|Designing with Database Systems: Concepts and Techniques|Abraham Silberschatz|0|-|-
+1304|Designing with Operating Systems: for Beginners|Abraham Silberschatz|0|-|-
+1305|Designing with Computer Networks: in Practice|Andrew S. Tanenbaum|0|-|-
+1306|Designing with Computer Architecture: Methods and Models|William Stallings|0|-|-
+1307|Designing with Object-Oriented Programming: A Modern Approach|Bjarne Stroustrup|0|-|-
+1308|Designing with C++ Programming: Projects and Case Studies|Bjarne Stroustrup|0|-|-
+1309|Designing with Java Programming: and Applications|Herbert Schildt|0|-|-
+1310|Designing with Python Programming: Theory and Practice|Eric Matthes|0|-|-
+1311|Designing with Web Development: with Examples|Jon Duckett|0|-|-
+1312|Designing with Software Engineering: A Practical Approach|Ian Sommerville|0|-|-
+1313|Designing with Artificial Intelligence: Concepts and Techniques|Stuart Russell|0|-|-
+1314|Designing with Machine Learning: for Beginners|Aurélien Géron|0|-|-
+1315|Designing with Deep Learning: in Practice|Ian Goodfellow|0|-|-
+1316|Designing with Cybersecurity: Methods and Models|William Stallings|0|-|-
+1317|Designing with Computer Graphics: A Modern Approach|Donald Hearn|0|-|-
+1318|Designing with Digital Logic: Projects and Case Studies|M. Morris Mano|0|-|-
+1319|Designing with Discrete Mathematics: and Applications|Kenneth H. Rosen|0|-|-
+1320|Designing with Theory of Computation: Theory and Practice|Michael Sipser|0|-|-
+1321|Designing with Cloud Computing: with Examples|Rajkumar Buyya|0|-|-
+1322|Designing with Data Science: A Practical Approach|Joel Grus|0|-|-
+1323|Designing with Information Systems: Concepts and Techniques|Kenneth C. Laudon|0|-|-
+1324|Designing with Human-Computer Interaction: for Beginners|Alan Dix|0|-|-
+1325|Designing with Computer Vision: in Practice|Richard Szeliski|0|-|-
+1326|Understanding Data Structures: A Practical Approach|Mark Allen Weiss|0|-|-
+1327|Understanding Algorithms: Concepts and Techniques|Thomas H. Cormen|0|-|-
+1328|Understanding Database Systems: for Beginners|Abraham Silberschatz|0|-|-
+1329|Understanding Operating Systems: in Practice|Abraham Silberschatz|0|-|-
+1330|Understanding Computer Networks: Methods and Models|Andrew S. Tanenbaum|0|-|-
+1331|Understanding Computer Architecture: A Modern Approach|William Stallings|0|-|-
+1332|Understanding Object-Oriented Programming: Projects and Case Studies|Bjarne Stroustrup|0|-|-
+1333|Understanding C++ Programming: and Applications|Bjarne Stroustrup|0|-|-
+1334|Understanding Java Programming: Theory and Practice|Herbert Schildt|0|-|-
+1335|Understanding Python Programming: with Examples|Eric Matthes|0|-|-
+1336|Understanding Web Development: A Practical Approach|Jon Duckett|0|-|-
+1337|Understanding Software Engineering: Concepts and Techniques|Ian Sommerville|0|-|-
+1338|Understanding Artificial Intelligence: for Beginners|Stuart Russell|0|-|-
+1339|Understanding Machine Learning: in Practice|Aurélien Géron|0|-|-
+1340|Understanding Deep Learning: Methods and Models|Ian Goodfellow|0|-|-
+1341|Understanding Cybersecurity: A Modern Approach|William Stallings|0|-|-
+1342|Understanding Computer Graphics: Projects and Case Studies|Donald Hearn|0|-|-
+1343|Understanding Digital Logic: and Applications|M. Morris Mano|0|-|-
+1344|Understanding Discrete Mathematics: Theory and Practice|Kenneth H. Rosen|0|-|-
+1345|Understanding Theory of Computation: with Examples|Michael Sipser|0|-|-
+1346|Understanding Cloud Computing: A Practical Approach|Rajkumar Buyya|0|-|-
+1347|Understanding Data Science: Concepts and Techniques|Joel Grus|0|-|-
+1348|Understanding Information Systems: for Beginners|Kenneth C. Laudon|0|-|-
+1349|Understanding Human-Computer Interaction: in Practice|Alan Dix|0|-|-
+1350|Understanding Computer Vision: Methods and Models|Richard Szeliski|0|-|-
+1351|Mastering Data Structures: Concepts and Techniques|Mark Allen Weiss|0|-|-
+1352|Mastering Algorithms: for Beginners|Thomas H. Cormen|0|-|-
+1353|Mastering Database Systems: in Practice|Abraham Silberschatz|0|-|-
+1354|Mastering Operating Systems: Methods and Models|Abraham Silberschatz|0|-|-
+1355|Mastering Computer Networks: A Modern Approach|Andrew S. Tanenbaum|0|-|-
+1356|Mastering Computer Architecture: Projects and Case Studies|William Stallings|0|-|-
+1357|Mastering Object-Oriented Programming: and Applications|Bjarne Stroustrup|0|-|-
+1358|Mastering C++ Programming: Theory and Practice|Bjarne Stroustrup|0|-|-
+1359|Mastering Java Programming: with Examples|Herbert Schildt|0|-|-
+1360|Mastering Python Programming: A Practical Approach|Eric Matthes|0|-|-
+1361|Mastering Web Development: Concepts and Techniques|Jon Duckett|0|-|-
+1362|Mastering Software Engineering: for Beginners|Ian Sommerville|0|-|-
+1363|Mastering Artificial Intelligence: in Practice|Stuart Russell|0|-|-
+1364|Mastering Machine Learning: Methods and Models|Aurélien Géron|0|-|-
+1365|Mastering Deep Learning: A Modern Approach|Ian Goodfellow|0|-|-
+1366|Mastering Cybersecurity: Projects and Case Studies|William Stallings|0|-|-
+1367|Mastering Computer Graphics: and Applications|Donald Hearn|0|-|-
+1368|Mastering Digital Logic: Theory and Practice|M. Morris Mano|0|-|-
+1369|Mastering Discrete Mathematics: with Examples|Kenneth H. Rosen|0|-|-
+1370|Mastering Theory of Computation: A Practical Approach|Michael Sipser|0|-|-
+1371|Mastering Cloud Computing: Concepts and Techniques|Rajkumar Buyya|0|-|-
+1372|Mastering Data Science: for Beginners|Joel Grus|0|-|-
+1373|Mastering Information Systems: in Practice|Kenneth C. Laudon|0|-|-
+1374|Mastering Human-Computer Interaction: Methods and Models|Alan Dix|0|-|-
+1375|Mastering Computer Vision: A Modern Approach|Richard Szeliski|0|-|-
+1376|Theory and Practice of Data Structures: for Beginners|Mark Allen Weiss|0|-|-
+1377|Theory and Practice of Algorithms: in Practice|Thomas H. Cormen|0|-|-
+1378|Theory and Practice of Database Systems: Methods and Models|Abraham Silberschatz|0|-|-
+1379|Theory and Practice of Operating Systems: A Modern Approach|Abraham Silberschatz|0|-|-
+1380|Theory and Practice of Computer Networks: Projects and Case Studies|Andrew S. Tanenbaum|0|-|-
+1381|Theory and Practice of Computer Architecture: and Applications|William Stallings|0|-|-
+1382|Theory and Practice of Object-Oriented Programming: Theory and Practice|Bjarne Stroustrup|0|-|-
+1383|Theory and Practice of C++ Programming: with Examples|Bjarne Stroustrup|0|-|-
+1384|Theory and Practice of Java Programming: A Practical Approach|Herbert Schildt|0|-|-
+1385|Theory and Practice of Python Programming: Concepts and Techniques|Eric Matthes|0|-|-
+1386|Theory and Practice of Web Development: for Beginners|Jon Duckett|0|-|-
+1387|Theory and Practice of Software Engineering: in Practice|Ian Sommerville|0|-|-
+1388|Theory and Practice of Artificial Intelligence: Methods and Models|Stuart Russell|0|-|-
+1389|Theory and Practice of Machine Learning: A Modern Approach|Aurélien Géron|0|-|-
+1390|Theory and Practice of Deep Learning: Projects and Case Studies|Ian Goodfellow|0|-|-
+1391|Theory and Practice of Cybersecurity: and Applications|William Stallings|0|-|-
+1392|Theory and Practice of Computer Graphics: Theory and Practice|Donald Hearn|0|-|-
+1393|Theory and Practice of Digital Logic: with Examples|M. Morris Mano|0|-|-
+1394|Theory and Practice of Discrete Mathematics: A Practical Approach|Kenneth H. Rosen|0|-|-
+1395|Theory and Practice of Theory of Computation: Concepts and Techniques|Michael Sipser|0|-|-
+1396|Theory and Practice of Cloud Computing: for Beginners|Rajkumar Buyya|0|-|-
+1397|Theory and Practice of Data Science: in Practice|Joel Grus|0|-|-
+1398|Theory and Practice of Information Systems: Methods and Models|Kenneth C. Laudon|0|-|-
+1399|Theory and Practice of Human-Computer Interaction: A Modern Approach|Alan Dix|0|-|-
+1400|Theory and Practice of Computer Vision: Projects and Case Studies|Richard Szeliski|0|-|-
+1401|An Introduction to Data Structures: in Practice|Mark Allen Weiss|0|-|-
+1402|An Introduction to Algorithms: Methods and Models|Thomas H. Cormen|0|-|-
+1403|An Introduction to Database Systems: A Modern Approach|Abraham Silberschatz|0|-|-
+1404|An Introduction to Operating Systems: Projects and Case Studies|Abraham Silberschatz|0|-|-
+1405|An Introduction to Computer Networks: and Applications|Andrew S. Tanenbaum|0|-|-
+1406|An Introduction to Computer Architecture: Theory and Practice|William Stallings|0|-|-
+1407|An Introduction to Object-Oriented Programming: with Examples|Bjarne Stroustrup|0|-|-
+1408|An Introduction to C++ Programming: A Practical Approach|Bjarne Stroustrup|0|-|-
+1409|An Introduction to Java Programming: Concepts and Techniques|Herbert Schildt|0|-|-
+1410|An Introduction to Python Programming: for Beginners|Eric Matthes|0|-|-
+1411|An Introduction to Web Development: in Practice|Jon Duckett|0|-|-
+1412|An Introduction to Software Engineering: Methods and Models|Ian Sommerville|0|-|-
+1413|An Introduction to Artificial Intelligence: A Modern Approach|Stuart Russell|0|-|-
+1414|An Introduction to Machine Learning: Projects and Case Studies|Aurélien Géron|0|-|-
+1415|An Introduction to Deep Learning: and Applications|Ian Goodfellow|0|-|-
+1416|An Introduction to Cybersecurity: Theory and Practice|William Stallings|0|-|-
+1417|An Introduction to Computer Graphics: with Examples|Donald Hearn|0|-|-
+1418|An Introduction to Digital Logic: A Practical Approach|M. Morris Mano|0|-|-
+1419|An Introduction to Discrete Mathematics: Concepts and Techniques|Kenneth H. Rosen|0|-|-
+1420|An Introduction to Theory of Computation: for Beginners|Michael Sipser|0|-|-
+1421|An Introduction to Cloud Computing: in Practice|Rajkumar Buyya|0|-|-
+1422|An Introduction to Data Science: Methods and Models|Joel Grus|0|-|-
+1423|An Introduction to Information Systems: A Modern Approach|Kenneth C. Laudon|0|-|-
+1424|An Introduction to Human-Computer Interaction: Projects and Case Studies|Alan Dix|0|-|-
+1425|An Introduction to Computer Vision: and Applications|Richard Szeliski|0|-|-
+1426|Exploring Data Structures: Methods and Models|Mark Allen Weiss|0|-|-
+1427|Exploring Algorithms: A Modern Approach|Thomas H. Cormen|0|-|-
+1428|Exploring Database Systems: Projects and Case Studies|Abraham Silberschatz|0|-|-
+1429|Exploring Operating Systems: and Applications|Abraham Silberschatz|0|-|-
+1430|Exploring Computer Networks: Theory and Practice|Andrew S. Tanenbaum|0|-|-
+1431|Exploring Computer Architecture: with Examples|William Stallings|0|-|-
+1432|Exploring Object-Oriented Programming: A Practical Approach|Bjarne Stroustrup|0|-|-
+1433|Exploring C++ Programming: Concepts and Techniques|Bjarne Stroustrup|0|-|-
+1434|Exploring Java Programming: for Beginners|Herbert Schildt|0|-|-
+1435|Exploring Python Programming: in Practice|Eric Matthes|0|-|-
+1436|Exploring Web Development: Methods and Models|Jon Duckett|0|-|-
+1437|Exploring Software Engineering: A Modern Approach|Ian Sommerville|0|-|-
+1438|Exploring Artificial Intelligence: Projects and Case Studies|Stuart Russell|0|-|-
+1439|Exploring Machine Learning: and Applications|Aurélien Géron|0|-|-
+1440|Exploring Deep Learning: Theory and Practice|Ian Goodfellow|0|-|-
+1441|Exploring Cybersecurity: with Examples|William Stallings|0|-|-
+1442|Exploring Computer Graphics: A Practical Approach|Donald Hearn|0|-|-
+1443|Exploring Digital Logic: Concepts and Techniques|M. Morris Mano|0|-|-
+1444|Exploring Discrete Mathematics: for Beginners|Kenneth H. Rosen|0|-|-
+1445|Exploring Theory of Computation: in Practice|Michael Sipser|0|-|-
+1446|Exploring Cloud Computing: Methods and Models|Rajkumar Buyya|0|-|-
+1447|Exploring Data Science: A Modern Approach|Joel Grus|0|-|-
+1448|Exploring Information Systems: Projects and Case Studies|Kenneth C. Laudon|0|-|-
+1449|Exploring Human-Computer Interaction: and Applications|Alan Dix|0|-|-
+1450|Exploring Computer Vision: Theory and Practice|Richard Szeliski|0|-|-
+1451|Core Concepts of Data Structures: A Modern Approach|Mark Allen Weiss|0|-|-
+1452|Core Concepts of Algorithms: Projects and Case Studies|Thomas H. Cormen|0|-|-
+1453|Core Concepts of Database Systems: and Applications|Abraham Silberschatz|0|-|-
+1454|Core Concepts of Operating Systems: Theory and Practice|Abraham Silberschatz|0|-|-
+1455|Core Concepts of Computer Networks: with Examples|Andrew S. Tanenbaum|0|-|-
+1456|Core Concepts of Computer Architecture: A Practical Approach|William Stallings|0|-|-
+1457|Core Concepts of Object-Oriented Programming: Concepts and Techniques|Bjarne Stroustrup|0|-|-
+1458|Core Concepts of C++ Programming: for Beginners|Bjarne Stroustrup|0|-|-
+1459|Core Concepts of Java Programming: in Practice|Herbert Schildt|0|-|-
+1460|Core Concepts of Python Programming: Methods and Models|Eric Matthes|0|-|-
+1461|Core Concepts of Web Development: A Modern Approach|Jon Duckett|0|-|-
+1462|Core Concepts of Software Engineering: Projects and Case Studies|Ian Sommerville|0|-|-
+1463|Core Concepts of Artificial Intelligence: and Applications|Stuart Russell|0|-|-
+1464|Core Concepts of Machine Learning: Theory and Practice|Aurélien Géron|0|-|-
+1465|Core Concepts of Deep Learning: with Examples|Ian Goodfellow|0|-|-
+1466|Core Concepts of Cybersecurity: A Practical Approach|William Stallings|0|-|-
+1467|Core Concepts of Computer Graphics: Concepts and Techniques|Donald Hearn|0|-|-
+1468|Core Concepts of Digital Logic: for Beginners|M. Morris Mano|0|-|-
+1469|Core Concepts of Discrete Mathematics: in Practice|Kenneth H. Rosen|0|-|-
+1470|Core Concepts of Theory of Computation: Methods and Models|Michael Sipser|0|-|-
+1471|Core Concepts of Cloud Computing: A Modern Approach|Rajkumar Buyya|0|-|-
+1472|Core Concepts of Data Science: Projects and Case Studies|Joel Grus|0|-|-
+1473|Core Concepts of Information Systems: and Applications|Kenneth C. Laudon|0|-|-
+1474|Core Concepts of Human-Computer Interaction: Theory and Practice|Alan Dix|0|-|-
+1475|Core Concepts of Computer Vision: with Examples|Richard Szeliski|0|-|-
+1476|Computational Methods in Data Structures: Projects and Case Studies|Mark Allen Weiss|0|-|-
+1477|Computational Methods in Algorithms: and Applications|Thomas H. Cormen|0|-|-
+1478|Computational Methods in Database Systems: Theory and Practice|Abraham Silberschatz|0|-|-
+1479|Computational Methods in Operating Systems: with Examples|Abraham Silberschatz|0|-|-
+1480|Computational Methods in Computer Networks: A Practical Approach|Andrew S. Tanenbaum|0|-|-
+1481|Computational Methods in Computer Architecture: Concepts and Techniques|William Stallings|0|-|-
+1482|Computational Methods in Object-Oriented Programming: for Beginners|Bjarne Stroustrup|0|-|-
+1483|Computational Methods in C++ Programming: in Practice|Bjarne Stroustrup|0|-|-
+1484|Computational Methods in Java Programming: Methods and Models|Herbert Schildt|0|-|-
+1485|Computational Methods in Python Programming: A Modern Approach|Eric Matthes|0|-|-
+1486|Computational Methods in Web Development: Projects and Case Studies|Jon Duckett|0|-|-
+1487|Computational Methods in Software Engineering: and Applications|Ian Sommerville|0|-|-
+1488|Computational Methods in Artificial Intelligence: Theory and Practice|Stuart Russell|0|-|-
+1489|Computational Methods in Machine Learning: with Examples|Aurélien Géron|0|-|-
+1490|Computational Methods in Deep Learning: A Practical Approach|Ian Goodfellow|0|-|-
+1491|Computational Methods in Cybersecurity: Concepts and Techniques|William Stallings|0|-|-
+1492|Computational Methods in Computer Graphics: for Beginners|Donald Hearn|0|-|-
+1493|Computational Methods in Digital Logic: in Practice|M. Morris Mano|0|-|-
+1494|Computational Methods in Discrete Mathematics: Methods and Models|Kenneth H. Rosen|0|-|-
+1495|Computational Methods in Theory of Computation: A Modern Approach|Michael Sipser|0|-|-
+1496|Computational Methods in Cloud Computing: Projects and Case Studies|Rajkumar Buyya|0|-|-
+1497|Computational Methods in Data Science: and Applications|Joel Grus|0|-|-
+1498|Computational Methods in Information Systems: Theory and Practice|Kenneth C. Laudon|0|-|-
+1499|Computational Methods in Human-Computer Interaction: with Examples|Alan Dix|0|-|-
+1500|Computational Methods in Computer Vision: A Practical Approach|Richard Szeliski|0|-|-

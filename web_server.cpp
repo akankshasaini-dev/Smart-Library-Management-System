@@ -1,4 +1,5 @@
 #include "Library.h"
+#include <cstdlib>
 #include <algorithm>
 #include <cctype>
 #include <fstream>
@@ -62,7 +63,7 @@ int main(){
  WSADATA w; if(WSAStartup(MAKEWORD(2,2),&w)!=0){std::cerr<<"Winsock startup failed\n";return 1;}
 #endif
  Library library("books.txt");std::string report;library.loadFromFile(report);std::cout<<report<<"\n";
- socket_t server=socket(AF_INET,SOCK_STREAM,0);if(server<0){std::cerr<<"Could not create server socket\n";return 1;}int opt=1;setsockopt(server,SOL_SOCKET,SO_REUSEADDR,reinterpret_cast<const char*>(&opt),sizeof(opt));sockaddr_in addr{};addr.sin_family=AF_INET;addr.sin_addr.s_addr=htonl(INADDR_ANY);addr.sin_port=htons(8080);
+ socket_t server=socket(AF_INET,SOCK_STREAM,0);if(server<0){std::cerr<<"Could not create server socket\n";return 1;}int opt=1;setsockopt(server,SOL_SOCKET,SO_REUSEADDR,reinterpret_cast<const char*>(&opt),sizeof(opt));sockaddr_in addr{};addr.sin_family=AF_INET;addr.sin_addr.s_addr=htonl(INADDR_ANY);addr.sin_port=htons(static_cast<unsigned short>(std::getenv("PORT") ? std::stoi(std::getenv("PORT")) : 8080))
  if(bind(server,reinterpret_cast<sockaddr*>(&addr),sizeof(addr))<0||listen(server,10)<0){std::cerr<<"Could not start server on port 8080\n";return 1;}std::cout<<"Smart Library website running at http://localhost:8080\nPress Ctrl+C to stop.\n";
  while(true){sockaddr_in clientAddr{};
 #ifdef _WIN32
